@@ -33,7 +33,7 @@ Nuestro vehículo fue diseñado para lograr estabilidad y maniobrabilidad median
   - Nuestro vehiculo emplea un sistema de traccion diferencial (2WD) con dos ruedas motrices ubicadas en la parte trasera
 - **Diseño del chasis**: Bajo, para facilitar la calibración y mejorar la estabilidad en curvas  
 - **Alimentación**: Sistema independiente y regulado para sensores y motores (3V a 6V) 
-- **Servo motor**: Nos ofrece un control exacto de angulo de giro de las ruedas delanteras esenciales para la trayectoria que buscamos, y nos permitio tener una mayor maniobrabilidad en las c
+- **Servo motor**: Nos ofrece un control exacto de angulo de giro de las ruedas delanteras esenciales para la trayectoria que buscamos, y nos permitio tener una mayor maniobrabilidad en las curvas
 
 ---
 
@@ -88,7 +88,7 @@ Equipo: [Titancode]
 Entrenador: [Jesus gonzales]  
 Integrantes: [Alvaro Bastidas(Presentador)
 	      Andres Maninatt(Programador)
-	      Sebastin Ospino(Mecanico)]  
+	      Sebastian Ospino(Mecanico)]  
 
 ---
 
@@ -147,7 +147,7 @@ Actualmente, estamos desarrollando un prototipo que cumple completamente con las
 vigentes de la WRO, utilizando todos los recursos permitidos por el reglamento. Contamos con 
 el apoyo de varios ingenieros que nos asisten con tareas específicas, como la impresión 3D de 
 piezas y la adquisición del hardware necesario (cabe acotar que la ayuda que recibimos es 
-solamente para consegir hardwere necesario, no nos dan sugerencias ni consejos, actuando 
+solamente para conseguir hardware necesario, no nos dan sugerencias ni consejos, actuando 
 como pratrocinadores de este proyecto y aportando los materiales). Este respaldo nos 
 permite materializar nuestras ideas sin limitaciones externas, confiando plenamente en nuestra 
 creatividad. 
